@@ -1,0 +1,25 @@
+▶️ COMPLETE EXECUTION GUIDE
+
+1️⃣ Create virtual environment
+python -m venv venv
+venv\Scripts\activate
+
+python -m pip install --upgrade pip
+
+2️⃣ Install dependencies
+pip install -r requirements.txt
+
+3️⃣ Train models
+python train_text.py
+python train_voice.py
+
+4️⃣ Run API
+uvicorn app:app --reload
+
+
+Open browser:
+
+http://127.0.0.1:8000/docs
+
+
+You’ll see interactive API documentation.

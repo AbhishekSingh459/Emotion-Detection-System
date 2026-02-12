@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+librosa
+resampy
+soundfile
+joblib
+openpyxl
+fastapi
+uvicorn
+gunicorn
+python-multipart
