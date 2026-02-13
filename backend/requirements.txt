@@ -10,3 +10,6 @@ fastapi
 uvicorn
 gunicorn
 python-multipart
+tensorflow
+opencv-python
+pillow
