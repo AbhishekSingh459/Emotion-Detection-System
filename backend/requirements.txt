@@ -10,6 +10,6 @@ fastapi
 uvicorn
 gunicorn
 python-multipart
-tensorflow
+tensorflow-cpu==2.15.0
 opencv-python
 pillow
